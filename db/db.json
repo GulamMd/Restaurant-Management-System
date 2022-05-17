@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Bruce Wayne",
+      "email": "bruce@test.com",
+      "password": "bruce@123",
+      "id": 1
+    },
+    {
+      "name": "Clark",
+      "email": "clark@test.com",
+      "password": "clark@123",
+      "id": 2
+    },
+    {
+      "email": "clark@test.com",
+      "name": "Clark",
+      "password": "clark@123",
+      "id": 3
+    },
+    {
+      "email": "diana@test.com",
+      "name": "Diana",
+      "password": "diana@123",
+      "id": 4
+    },
+    {
+      "email": "tony@test.com",
+      "name": "Tony",
+      "password": "tony@123",
+      "id": 5
+    },
+    {
+      "email": "homelander@test.com",
+      "name": "Homelander",
+      "password": "homelander@123",
+      "id": 6
+    },
+    {
+      "email": "huighy@test.com",
+      "name": "Huighy",
+      "password": "huighy@123",
+      "id": 7
+    },
+    {
+      "email": "gulam@test.com",
+      "name": "Gulam",
+      "password": "gulam@123",
+      "id": 8
+    },
+    {
+      "email": "gulam@test.com",
+      "name": "gulam",
+      "password": "gulam@123",
+      "id": 9
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Greater Noida sector-50",
+      "contact": 111
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "Gurgaon sector-20",
+      "contact": 2222
+    },
+    {
+      "name": "StarBucks",
+      "address": "City Centre-1,Kolkata,WB",
+      "contact": "9990",
+      "id": 4
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "Webel More,salt lake,sector-5,kolkata,WB",
+      "contact": "8989",
+      "id": 5
+    }
+  ]
+}
